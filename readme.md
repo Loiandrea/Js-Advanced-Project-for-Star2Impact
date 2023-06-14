@@ -20,7 +20,7 @@ ________________________________________________________________________
 
 ![open library.png](https://i.postimg.cc/Kz3j0bf0/Immagine.png)
 
-Prova il  [js advanced edutcation project](https://javascript-advanced-education.netlify.app/index.html)
+Prova il  [js advanced edutcation project](https://js-advanced-project-for-star2impact.netlify.app/)
 
 _______________________________________________________________________
 
